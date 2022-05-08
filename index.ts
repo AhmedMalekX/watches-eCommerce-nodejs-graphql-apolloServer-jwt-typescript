@@ -1,3 +1,5 @@
-import {startApolloServer} from './src/server'
+import "reflect-metadata";
+import {startApolloServer} from "./src/server";
 
-startApolloServer()
+
+startApolloServer();
